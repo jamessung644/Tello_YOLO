@@ -1,5 +1,14 @@
 # Tello_YOLO
 
+###Project Description
+
+> Small Project Detecting Object
+> using drone DJI TELLO and YOLOv3(You Only Look Once)
+>
+> Eniorment
+> Apple MacBook AIR M2 13inch
+> indoor atmosphere
+
 ## Download model, and file 모델 및 파일 설치 
 
 [YOLOv3 Download Link](https://pjreddie.com/darknet/yolo/)
