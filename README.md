@@ -25,7 +25,8 @@ git clone https://github.com/jamessung644/Tello_YOLO
 ```
 ## 사용방법
 
-This code is written on Python ver. -3.9.6-. Put downloaded model on Cloned fie, and install following Libraries
+This code is written on Python ver. -3.9.6-. Put downloaded model on Cloned fie, and install following Libraries.
+
 이 코드는 파이썬 버전 **3.9.6**에서 작성되었습니다. 설치한 모델을 clone한 파일에 넣은 후, 아래의 라이브러리들을 설치해주세요:
 ```
 !pip install opencv-python
